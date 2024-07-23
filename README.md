@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I am Gameel Aziz! 👋
 
-<!--
-**Gameel70/Gameel70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an experienced Software Engineer, I have a proven track record of delivering high-quality software solutions for large-scale projects. My passion lies in developing robust, scalable systems that drive business success and foster technological innovation.
 
-Here are some ideas to get you started:
+My expertise covers a wide range of technologies and methodologies, allowing me to adapt and excel in various environments. I have consistently delivered projects on time and within budget, playing a crucial role in their success.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Collaboration is key to my approach. I believe in building strong relationships with clients and teams, ensuring clear communication and aligning expectations. My goal is not just to meet requirements but to exceed them, adding value beyond the code.
+
+## Tech Stacks 📱
+
+**Backend**  
+Node.js, Nest.js, Express.js, Ruby on Rails  
+
+**Frontend**  
+React.js, Next.js, Vue.js, Angular.js  
+
+**Cloud**  
+AWS, GCP, Azure, Docker, Kubernetes  
